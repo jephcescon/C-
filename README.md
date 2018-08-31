@@ -1,2 +1,5 @@
-# C-
-LINGUAGEM E TECNICAS DE PROGR
+# C++
+LINGUAGEM E TECNICAS DE PROGRAMAÇÃO
+
+1° Semestre 
+Professor: 
